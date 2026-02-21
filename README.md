@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+
 ### Привет, я [Михаил] 👋
 
 QA-тестировщик с опытом ручного и автоматизированного тестирования.  
