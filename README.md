@@ -24,7 +24,6 @@ QA-тестировщик с опытом ручного и автоматизи
 ---
 
 ### 📫 Связаться со мной
-
-[![DISCORD](https://img.freepik.com/premium-photo/discord-logo-with-3d-render-etched-glass-material-pulsating-glow-purple-white-color-scheme-isol_1020495-692943.jpg)](https://discord.com/users/576868214982705154)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/576868214982705154)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MIhailKrivko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihaelkrivko@yandex.ru)
