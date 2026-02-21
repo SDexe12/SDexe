@@ -16,20 +16,9 @@ QA-тестировщик с опытом ручного и автоматизи
 
 ### 🛠 Мой стек
 
-
-
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
----
-
-### 📊 Статистика
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Связаться со мной
