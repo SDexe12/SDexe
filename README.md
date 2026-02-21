@@ -1,9 +1,11 @@
-- uses: Platane/snk/svg-only@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-contribution-grid-snake.svg
-      dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+### 📈 Моя активность на GitHub
+
+<!-- Змейка с автоматической сменой темы (светлая/тёмная) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 ### Привет, я [Михаил] 👋
 
