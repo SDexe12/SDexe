@@ -1,5 +1,9 @@
-![Snake animation](https://github.com/SDexe12/SDexe12/blob/output/github-contribution-grid-snake.svg)
-
+<!-- Змейка с автоматической сменой темы (светлая/тёмная) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 ### Привет, я [Михаил] 👋
 
 QA-тестировщик с опытом ручного и автоматизированного тестирования.  
